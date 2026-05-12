@@ -1,0 +1,12 @@
+{
+    "device1": {
+      "publish": ["sensors/#"],
+      "subscribe": ["sensors/#"]
+    },
+  
+    "admin": {
+      "publish": ["#"],
+      "subscribe": ["#"]
+    }
+  }
+  
