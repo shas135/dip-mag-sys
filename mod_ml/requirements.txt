@@ -1,0 +1,11 @@
+streamlit==1.55.0
+torch==2.10.0 
+scapy==2.7.0 
+pandas==2.3.3 
+numpy==2.4.3 
+plotly==6.6.0
+joblib==1.5.3
+scikit-learn==1.8.0 #поменять на 1 8 0
+dpkt==1.9.8
+tqdm==4.67.3
+requests
